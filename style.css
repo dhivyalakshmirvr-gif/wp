@@ -1,0 +1,31 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+/* ID selector */
+#mainHeader {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Class selector */
+.content {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid gray;
+    line-height: 28px;
+}
+
+/* Element selector */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
